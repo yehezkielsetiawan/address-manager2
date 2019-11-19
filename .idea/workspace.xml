@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d92cd125-920b-402a-a6f4-88a6b9e8f653" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/HelloWorldServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/HelloWorldServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/AddressServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/AddressServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/BusinessPartnerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/BusinessPartnerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/commands/CreateAddressCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/commands/CreateAddressCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/commands/DeleteAddressCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/commands/DeleteAddressCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/commands/GetAllBusinessPartnersCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/commands/GetAllBusinessPartnersCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/commands/GetSingleBusinessPartnerByIdCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/commands/GetSingleBusinessPartnerByIdCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/commands/UpdateAddressCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/commands/UpdateAddressCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/util/HttpServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/sdk/tutorial/addressmgr/util/HttpServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/WEB-INF/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/WEB-INF/spring-security.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/WEB-INF/spring-security.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/Component.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/Component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/controller/App.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/controller/App.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/controller/BaseController.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/controller/BaseController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/controller/Detail.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/controller/Detail.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/controller/DetailMessagePage.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/controller/DetailMessagePage.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/controller/Master.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/controller/Master.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/i18n/i18n.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/i18n/i18n.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/model/MessageType.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/model/MessageType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/model/address.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/model/address.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/model/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/model/formatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/service/businessPartner.js" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/service/businessPartner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/view/App.view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/view/App.view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/view/Detail.view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/view/Detail.view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/view/DetailMessagePage.view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/view/DetailMessagePage.view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/view/EditAddress.fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/view/EditAddress.fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/address-manager/view/Master.view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/address-manager/view/Master.view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cx-server/cx-server" beforeDir="false" afterPath="$PROJECT_DIR$/cx-server/cx-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cx-server/cx-server.bat" beforeDir="false" afterPath="$PROJECT_DIR$/cx-server/cx-server.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cx-server/server.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/cx-server/server.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-tests/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-tests/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-tests/src/test/java/com/sap/cloud/sdk/tutorial/HelloWorldServletTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/integration-tests/src/test/java/com/sap/cloud/sdk/tutorial/HelloWorldServletTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-tests/src/test/java/com/sap/cloud/sdk/tutorial/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/integration-tests/src/test/java/com/sap/cloud/sdk/tutorial/TestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-tests/src/test/resources/arquillian.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-tests/src/test/resources/arquillian.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.yml" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-tests/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unit-tests/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-tests/src/test/java/com/sap/cloud/sdk/tutorial/UnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-tests/src/test/java/com/sap/cloud/sdk/tutorial/UnitTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1REqnFgEPgq4uCm1aBaOkc556Xg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../execise05/address-manager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2defea99-d10b-40ef-8d75-6831e97f5e66" name="Default Changelist" comment="" />
+      <created>1569242767675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569242767675</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+com\sap\cloud\sdk\tutorial\addressmgr\BusinessPartnerServlet.class
+com\sap\cloud\sdk\tutorial\addressmgr\commands\UpdateAddressCommand.class
+com\sap\cloud\sdk\tutorial\addressmgr\commands\CreateAddressCommand.class
+com\sap\cloud\sdk\tutorial\addressmgr\commands\GetSingleBusinessPartnerByIdCommand.class
+com\sap\cloud\sdk\tutorial\addressmgr\AddressServlet.class
+com\sap\cloud\sdk\tutorial\addressmgr\commands\DeleteAddressCommand.class
+com\sap\cloud\sdk\tutorial\addressmgr\util\HttpServlet.class
+com\sap\cloud\sdk\tutorial\addressmgr\commands\GetAllBusinessPartnersCommand.class
+com\sap\cloud\sdk\tutorial\HelloWorldServlet.class
